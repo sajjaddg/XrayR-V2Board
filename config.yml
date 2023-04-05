@@ -7,9 +7,9 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "" # 修改这里
-      ApiKey: "a6f92n8d03nd6c8k" # 修改这里
-      NodeID: 1
+      ApiHost: "navid.bahooacademy.top" # 修改这里
+      ApiKey: "ajhfkjahfkjhakjhvoiwr" # 修改这里
+      NodeID: 2
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
